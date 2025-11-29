@@ -59,7 +59,7 @@ const App = () => {
     "Harvard CS50: Intro to CS",
     "ServiceNow Micro-Certification",
     "Deloitte Data Analytics",
-    "Generative AI & MCP (Model Context Protocol)"
+    "Generative AI & MCP (Model Context Protocol)",
     "ServiceNow Micro Certification"
   ];
 
