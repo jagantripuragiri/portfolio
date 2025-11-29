@@ -60,6 +60,7 @@ const App = () => {
     "ServiceNow Micro-Certification",
     "Deloitte Data Analytics",
     "Generative AI & MCP (Model Context Protocol)"
+    "ServiceNow Micro Certification"
   ];
 
   return (
